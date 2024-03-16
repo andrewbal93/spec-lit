@@ -1,0 +1,17 @@
+.main-content {
+  text-align: center;
+}
+
+.name {
+  font-size: 48px;
+  margin-top: 32px;
+}
+
+.contact {
+  font-size: 78px;
+  font-weight: bold;
+}
+
+.mail {
+  margin-top: 54px;
+}

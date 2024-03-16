@@ -1,0 +1,28 @@
+.main-content {
+  width: 70%;
+  font-size: 24px;
+  margin: auto;
+  margin-top: 24px;
+}
+.list {
+  list-style-type: disc;
+  width: 90%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.list > li {
+  margin-top: 24px;
+}
+
+p {
+  font-size: 28px;
+}
+
+.p3 {
+  margin-top: 32px;
+}
+
+.li-bold-titles {
+  font-weight: 800;
+}

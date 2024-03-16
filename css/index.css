@@ -1,0 +1,14 @@
+.logo:hover {
+  color: #fff;
+  border: solid #fff 4px;
+}
+
+.main-img {
+  -webkit-box-shadow: 6px 7px 12px -3px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 6px 7px 12px -3px rgba(0, 0, 0, 0.75);
+  box-shadow: 6px 7px 12px -3px rgba(0, 0, 0, 0.75);
+}
+
+.nav-list {
+  width: 670px;
+}
